@@ -4,4 +4,4 @@
 
 We are building **BlockDB**, which provides powerful APIs and tools to empower your applications and workflow in the era of **web3**.
 
-Stay tuned 😃
+_Stay tuned 😃_
