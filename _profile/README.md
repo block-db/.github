@@ -1,4 +1,2 @@
-## Hey 👋, Welcome to BlockDB
-Here at **BlockDB**, we are building the world's most fastest and secure storage.
-
-_Stay tuned 😃_
+## Hey 👋, Welcome to BlockdB
+Here at **BlockdB**, we are building the world's fastest and most secure database system.
